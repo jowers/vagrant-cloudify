@@ -16,3 +16,8 @@ To run, you will need virtualbox and vagrant installed.
 
 For vagrant, see here: http://www.vagrantup.com/
 
+Once available, you should be able to run:
+
+		$ vagrant up
+
+in the root directory of this project.
