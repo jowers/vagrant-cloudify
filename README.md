@@ -9,3 +9,10 @@ Required packages installed:
 * virtualenv
 
 It also gives the server an IP address of 192.168.33.10.
+
+## Installation
+
+To run, you will need virtualbox and vagrant installed.
+
+For vagrant, see here: http://www.vagrantup.com/
+
